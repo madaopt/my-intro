@@ -1,0 +1,222 @@
+---
+title: "Curriculum Vitae"
+output: html_document
+---
+
+# Futu Chen
+
+📧 futuchen@usc.edu  
+📍 Los Angeles, CA, 90033  
+
+---
+
+# PROFESSIONAL EXPERIENCE
+
+**University of Southern California**, Department of Population and Public Health Sciences  
+*Postdoctoral Scholar, Division of Environmental Health*  
+July 2023 – Present  
+
+**Vital Village Community Engagement Network**, **Boston Medical Center**  
+*Data Outcome Coordinator, Department of Pediatrics*  
+Aug 2016 – July 2018  
+
+---
+
+# EDUCATION
+
+**Harvard University**, Graduate School of Arts and Sciences — *Boston, MA*  
+*Ph.D. in Population Health Sciences (Environmental Health)*, May 2023  
+_Dissertation:_ “Household, Housing and Neighborhood Drivers of Environmental Health Disparities.”
+
+**Harvard University**, Harvard T.H. Chan School of Public Health — *Boston, MA*  
+*S.M. in Biostatistics*, May 2023  
+
+**Emory University**, Rollins School of Public Health — *Atlanta, GA*  
+*M.P.H. in Environmental Health*, May 2016  
+
+**Shanghai University**, School of Life Sciences — *Shanghai, China*  
+*B.Eng. in Bioengineering*, June 2014  
+
+---
+
+# FELLOWSHIPS AND AWARDS
+
+- International Society for Environmental Epidemiology, North America Chapter Travel Award, 2023  
+- Certificate of Distinction in Teaching, *Department of Biostatistics, Harvard T.H. Chan School of Public Health*, 2022–2023  
+- Benjamin Greeley Ferris, Jr. Fellowship in Environmental Epidemiology, *Harvard T.H. Chan School of Public Health*, 2019–2021  
+- Queenie C.K. Wong Fellowship, *Harvard T.H. Chan School of Public Health*, 2018–2019  
+- Rollins Earn and Learn (REAL), *Rollins School of Public Health*, 2015  
+- School of Life Sciences Outstanding Graduates Award, *Shanghai University*, 2014  
+- Third Prize Scholarship, *Shanghai University*, 2013  
+- Self-discipline Scholarship, *Shanghai University*, 2012  
+
+---
+
+# GRANTS
+
+**NIH/NIMHD P50MD015705 (PI)** — *$10,000*(pilot project)  
+*July 2024 – June 2025*  
+_Disparities in extreme heat-related mortality through building and neighborhood social environment_
+
+**NIH/NIEHS P30ES07048-27 (PI)** — *$10,000*(pilot project)  
+*March 2024 – February 2025*  
+_Extreme Heat-Related Mortality: A Mixture Approach to Study Disparities Through Individual and Neighborhood Environment_
+
+---
+
+# PUBLICATIONS
+
+1. **Chen, F.**, Eckel, S.P., Palinkas, L.A., Johnston, J., Comando, A., Campos, A., Franco, W., & Garcia, E. (2026).  
+   *Electric vehicle adoption, gentrification, and housing prices: a longitudinal study in California.*  
+   *Environmental Research Communications*, 8(3), p.031004.
+
+2. **Chen, F.**, Niu, Z., Mohazzab-Hosseinian, S., Howland, S., Lurmann, F., Pavlovic, N.R., Gauderman, W.J., McConnell, R., Farzan, S.F., Bastain, T.M., & Habre, R. (2026).  
+   *Susceptible windows of long-term childhood exposure to air pollution on adult self-reported bronchitic symptoms.*  
+   *International Journal of Epidemiology*, 55(1), p.dyaf205.
+
+3. Eckel, S.P., **Chen, F.**, Silva, S.J., Goldberg, D.L., Johnston, J., Palinkas, L.A., Campos, A., Franco, W., & Garcia, E. (2026).  
+   *Zero-emissions vehicle adoption and satellite-measured NO₂ air pollution in California, USA, from 2019 to 2023.*  
+   *The Lancet Planetary Health.*
+
+4. Palinkas, L.A., Liff, M., Campos, A., Martinez, A.A., Eckel, S.P., **Chen, F.**, Johnston, J., Franco, W., & Garcia, E. (2025).  
+   *A co-created, community-informed model for electric vehicle adoption in disadvantaged communities.*  
+   *Transportation Research Part D: Transport and Environment*, 146, p.104853.
+
+5. **Chen, F.**, Hart, J.E., Chen, J.T., Coull, B.A., Fabian, M.P., Schwartz, J., & Adamkiewicz, G. (2025).  
+   *Short-term ambient PM2.5 exposure and cause-specific mortality in Massachusetts.*  
+   *Environmental Epidemiology*, 9(3), p.e385.
+
+6. **Chen, F.**, MacDonald, B., Xu, Y., Franco, W., Campos, A., Palinkas, L.A., Johnston, J., Eckel, S.P., & Garcia, E. (2025).  
+   *ZIP Code and ZIP Code Tabulation Area Linkage: Implications for Bias in Epidemiologic Research.*  
+   *Epidemiology*, 36(1), pp.115–118.
+
+7. Bhaskar, S., Shapero, A., **Chen, F.**, Chu, M.T., Nethery, R.C., Hart, J.E., & Adamkiewicz, G. (2024).  
+   *Algorithm-driven estimation of household cooking activity and its impact on indoor PM2.5 assessments.*  
+   *Indoor Environments*, 1(3), p.100032.
+
+8. **Chen, F.**, Eckel, S.P., Campos, A., Palinkas, L., Johnston, J., Franco, W., & Garcia, E. (2024).  
+   *Disparities of Electronic Vehicle Adoption in California and Urban Gentrification.*  
+   *ISEE Conference Abstracts.*
+
+9. Borchert, W., Grady, S.T., Chen, J., Deville, N.V., Roscoe, C., **Chen, F.**, et al. (2023).  
+   *Air pollution and temperature: a systematic review.*  
+   *Current Environmental Health Reports*, 10(4), pp.490–500.
+
+10. **Chen, F.**, Chen, J.T., Hart, J.E., Coull, B.A., Scammell, M.K., Chu, M.T., & Adamkiewicz, G. (2023).  
+   *Disparities in joint exposure to environmental and social stressors.*  
+   *Environmental Research*, 238, p.117104.
+
+11. Guyol, G.G., **Chen, F.**, & Boynton-Jarrett, R. (2023).  
+   *Neighborhood context and parent perspectives on preschool location.*  
+   *Early Education and Development*, 34(3), pp.725–741.
+
+12. Desai, S., **Chen, F.**, & Boynton-Jarrett, R. (2019).  
+   *Clinician satisfaction and self-efficacy with CenteringParenting.*  
+   *Journal of Primary Care & Community Health*, 10.
+
+13. Zhong, M., **Chen, F.**, & Saikawa, E. (2019).  
+   *Sensitivity of projected PM2.5- and O3-related health impacts.*  
+   *Environment International*, 123, pp.256–264.
+
+---
+
+# UNDER REVIEW / WORKING PAPERS
+
+1. **Chen, F.**, Eckel, S.P., et al. (2026).  
+   *Longitudinal electric vehicle adoption patterns and neighborhood predictors in California.*  
+   *Transportation Research Interdisciplinary Perspectives* (under review).
+
+2. **Chen, F.**, Comandon, A., et al. (2026).  
+   *Building characteristics as effect modifiers of extreme heat-related mortality: Insights from assessor parcel data.*  
+   *Journal of Urban Health* (under review).
+
+---
+
+# NON-PEER-REVIEWED PUBLICATIONS
+
+1. **Chen, F.** & Boynton-Jarrett, R. (2016).  
+   Fine-Scale Child Opportunity Index (COI) Mapping.  
+   https://www.vitalvillage.org/data-dashboard/customize/child-opportunity-index-v2  
+
+2. Lead of Vital Village Network Food Access Community Workgroup (2017).  
+   Food Access in Boston  
+   https://www.vitalvillage.org/data-dashboard/food-access  
+
+---
+
+# PRESENTATIONS
+
+1. **Chen, F.**, Comandon, A., Zhang, L., and Garcia, E.  
+   “Lessons learned from parcel datasets: an exploration of effect modification of building structures on extreme heat-related mortality.”  
+   *Flash oral talk*, International Society for Environmental Epidemiology annual conference, Atlanta, GA, August 2025.
+
+2. Eckel, S.P., **Chen, F.**, Silva, S.J., Goldberg, D.L., Johnston, J., Palinkas, L.A., Campos, A., Franco, W., and Garcia. E.  
+   “Increasing zero-emissions vehicle adoption and reduced satellite-measured NO2 air pollution in California.”  
+   *Poster presented*, International Society for Environmental Epidemiology annual conference, Atlanta, GA, August 2025.
+
+3. Schimke, C., Eckel, S.P., **Chen, F.**, Schlereth, H., Ko, J., Sanchez, J.R., Wei, D., Silva, S., and Garcia. E.  
+   “Evaluation of optimal heat stress metric for modelling heat-mortality relation across climatically distinct sub-regions of Southern California.”  
+   *Flash oral talk*, International Society for Environmental Epidemiology annual conference, Atlanta, GA, August 2025.
+
+4. **Chen, F.**, MacDonald, B., Xu, Y., Franco, W., Campos, A., Palinkas, L.A., Johnston, J., Eckel, S.P. and Garcia, E.  
+   “Use of ZIP Codes and ZIP Code Tabulation Areas: Bias Analysis and Research Implications.”  
+   *Poster presented*, 58th Society for Epidemiologic Research meeting, Austin, TX, June 2024.
+
+5. **Chen, F.**, Niu, Z., Mohazzab-Hosseinian, S., Howland, S., Lurmann, F., Pavlovic, N.R., Gauderman, W.J., McConnell, R., Farzan, S.F., Bastain, T.M., Havre, R., Breton, C.V., and Garcia, E.  
+   “Sensitive windows of long-term childhood exposure to air pollution on adult bronchitic symptoms.”  
+   *Poster presented*, 58th Society for Epidemiologic Research meeting, Austin, TX, June 2024.
+
+6. **Chen, F.**, Eckel, S.P., Campos, A., Palinkas, L., Johnston, J., Franco, W. and Garcia, E.  
+   “Disparities of Electronic Vehicle Adoption in California and Urban Gentrification: A Community Dialogue Informed Approach.”  
+   *Lightning talk*, 2024 Wrigley Institute Annual Research Symposium, Los Angeles, CA, March, 2023.
+
+7. **Chen, F.**, Hart, J.E., Chen, J.T., Coull, B.A., Fabian, M.P., Schwartz, J. and Adamkiewicz, G.  
+   “Short-term ambient PM2.5 exposure and mortality in Massachusetts: Effect modification by structural air exchange rates.”  
+   *Oral presentation*, International Society for Environmental Epidemiology North American Chapter Conference, Corvallis, OR, June 2023.
+
+8. **Chen, F.** and Boynton-Jarrett, R.  
+   “A Block Group Level Child Opportunity Index for the Boston Metropolitan Area.”  
+   *Poster presented*, 52th Society for Epidemiologic Research meeting, Minneapolis, MN, June 2018.
+
+9. Zhong, M., **Chen, F.** and Saikawa, E.  
+   “Uncertainties of Estimated PM2.5- and O3- Related Health Impacts in China due to Emissions.”  
+   *Oral talk*, 18th Global Emissions Initiative Conference, Hamburg, Germany, September, 2017.
+
+10. **Chen, F.** and Boynton-Jarrett, R.  
+    “Asset-Based Data: the Vital Village Network Data Dashboard.”  
+    *Workshop presented*, 2016 Vital Village Network Leadership Summit, Boston, MA, December, 2016.  
+
+---
+
+# TEACHING AND PROFESSIONAL ACTIVITIES
+
+**University of Southern California**, Los Angeles, CA                                                                    
+- Guest Lecture: *Probability and Statistics Review* (2024) - Introduction to Causal Inference in Epidemiology (course designed by Dr. Erika Garcia)   
+- Guest Lecture: *Causal Inference* (2024) - Introduction to Causal Inference in Epidemiology    
+- Guest Lecture: *Natural Experiments* (2023)  - Introduction to Causal Inference in Epidemiology   
+
+**ISEE North American Chapter Conference**, Corvallis, OR    
+- Session Chair: Built environment oral talk, June 2023.
+
+**Harvard T.H. Chan School of Public Health**, Boston, MA      
+*Award*: _Certificate of Distinction in Teaching in the Department of Biostatistics_ (2022-2023)   
+- *Teaching Fellow*, Core Principles of Biostatistics and Epidemiology for Public Health Practice (Fall 2021 & Fall 2022)   
+- *Teaching Fellow*,  Statistics for Medical Research I & Statistics for Medical Research II (Summer 2022)   
+- *Teaching Fellow*,  Environmental and Occupational Epidemiology (Spring 2020 & Spring 2021)   
+- *Tutor*, Quantitative Research Methods in Population Health Sciences A & B (2019–2023)     
+
+---
+
+# PEER REVIEW
+
+*Ad Hoc Reviewer:*  
+- The Lancet Public Health  
+- BMC Public Health  
+- Environmental Research  
+- Environmental International  
+- Health and Place  
+- Journal of Primary Care and Community Health  
+- Public Health  
+- Scientific Reports  
+- PeerJ  
+- Sleep Health  

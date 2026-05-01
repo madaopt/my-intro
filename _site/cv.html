@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Curriculum Vitae</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Futu Chen</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Curriculum Vitae</h1>
+
+</div>
+
+
+<div id="futu-chen" class="section level1">
+<h1>Futu Chen</h1>
+<p>📧 <a href="mailto:futuchen@usc.edu"
+class="email">futuchen@usc.edu</a><br />
+📍 Los Angeles, CA, 90033</p>
+<hr />
+</div>
+<div id="professional-experience" class="section level1">
+<h1>PROFESSIONAL EXPERIENCE</h1>
+<p><strong>University of Southern California</strong>, Department of
+Population and Public Health Sciences<br />
+<em>Postdoctoral Scholar, Division of Environmental Health</em><br />
+July 2023 – Present</p>
+<p><strong>Vital Village Community Engagement Network</strong>,
+<strong>Boston Medical Center</strong><br />
+<em>Data Outcome Coordinator, Department of Pediatrics</em><br />
+Aug 2016 – July 2018</p>
+<hr />
+</div>
+<div id="education" class="section level1">
+<h1>EDUCATION</h1>
+<p><strong>Harvard University</strong>, Graduate School of Arts and
+Sciences — <em>Boston, MA</em><br />
+<em>Ph.D. in Population Health Sciences (Environmental Health)</em>, May
+2023<br />
+<em>Dissertation:</em> “Household, Housing and Neighborhood Drivers of
+Environmental Health Disparities.”</p>
+<p><strong>Harvard University</strong>, Harvard T.H. Chan School of
+Public Health — <em>Boston, MA</em><br />
+<em>S.M. in Biostatistics</em>, May 2023</p>
+<p><strong>Emory University</strong>, Rollins School of Public Health —
+<em>Atlanta, GA</em><br />
+<em>M.P.H. in Environmental Health</em>, May 2016</p>
+<p><strong>Shanghai University</strong>, School of Life Sciences —
+<em>Shanghai, China</em><br />
+<em>B.Eng. in Bioengineering</em>, June 2014</p>
+<hr />
+</div>
+<div id="fellowships-and-awards" class="section level1">
+<h1>FELLOWSHIPS AND AWARDS</h1>
+<ul>
+<li>International Society for Environmental Epidemiology, North America
+Chapter Travel Award, 2023<br />
+</li>
+<li>Certificate of Distinction in Teaching, <em>Department of
+Biostatistics, Harvard T.H. Chan School of Public Health</em>,
+2022–2023<br />
+</li>
+<li>Benjamin Greeley Ferris, Jr. Fellowship in Environmental
+Epidemiology, <em>Harvard T.H. Chan School of Public Health</em>,
+2019–2021<br />
+</li>
+<li>Queenie C.K. Wong Fellowship, <em>Harvard T.H. Chan School of Public
+Health</em>, 2018–2019<br />
+</li>
+<li>Rollins Earn and Learn (REAL), <em>Rollins School of Public
+Health</em>, 2015<br />
+</li>
+<li>School of Life Sciences Outstanding Graduates Award, <em>Shanghai
+University</em>, 2014<br />
+</li>
+<li>Third Prize Scholarship, <em>Shanghai University</em>, 2013<br />
+</li>
+<li>Self-discipline Scholarship, <em>Shanghai University</em>, 2012</li>
+</ul>
+<hr />
+</div>
+<div id="grants" class="section level1">
+<h1>GRANTS</h1>
+<p><strong>NIH/NIMHD P50MD015705 (PI)</strong> — <em>$10,000</em>(pilot
+project)<br />
+<em>July 2024 – June 2025</em><br />
+<em>Disparities in extreme heat-related mortality through building and
+neighborhood social environment</em></p>
+<p><strong>NIH/NIEHS P30ES07048-27 (PI)</strong> —
+<em>$10,000</em>(pilot project)<br />
+<em>March 2024 – February 2025</em><br />
+<em>Extreme Heat-Related Mortality: A Mixture Approach to Study
+Disparities Through Individual and Neighborhood Environment</em></p>
+<hr />
+</div>
+<div id="publications" class="section level1">
+<h1>PUBLICATIONS</h1>
+<ol style="list-style-type: decimal">
+<li><p><strong>Chen, F.</strong>, Eckel, S.P., Palinkas, L.A., Johnston,
+J., Comando, A., Campos, A., Franco, W., &amp; Garcia, E. (2026).<br />
+<em>Electric vehicle adoption, gentrification, and housing prices: a
+longitudinal study in California.</em><br />
+<em>Environmental Research Communications</em>, 8(3), p.031004.</p></li>
+<li><p><strong>Chen, F.</strong>, Niu, Z., Mohazzab-Hosseinian, S.,
+Howland, S., Lurmann, F., Pavlovic, N.R., Gauderman, W.J., McConnell,
+R., Farzan, S.F., Bastain, T.M., &amp; Habre, R. (2026).<br />
+<em>Susceptible windows of long-term childhood exposure to air pollution
+on adult self-reported bronchitic symptoms.</em><br />
+<em>International Journal of Epidemiology</em>, 55(1),
+p.dyaf205.</p></li>
+<li><p>Eckel, S.P., <strong>Chen, F.</strong>, Silva, S.J., Goldberg,
+D.L., Johnston, J., Palinkas, L.A., Campos, A., Franco, W., &amp;
+Garcia, E. (2026).<br />
+<em>Zero-emissions vehicle adoption and satellite-measured NO₂ air
+pollution in California, USA, from 2019 to 2023.</em><br />
+<em>The Lancet Planetary Health.</em></p></li>
+<li><p>Palinkas, L.A., Liff, M., Campos, A., Martinez, A.A., Eckel,
+S.P., <strong>Chen, F.</strong>, Johnston, J., Franco, W., &amp; Garcia,
+E. (2025).<br />
+<em>A co-created, community-informed model for electric vehicle adoption
+in disadvantaged communities.</em><br />
+<em>Transportation Research Part D: Transport and Environment</em>, 146,
+p.104853.</p></li>
+<li><p><strong>Chen, F.</strong>, Hart, J.E., Chen, J.T., Coull, B.A.,
+Fabian, M.P., Schwartz, J., &amp; Adamkiewicz, G. (2025).<br />
+<em>Short-term ambient PM2.5 exposure and cause-specific mortality in
+Massachusetts.</em><br />
+<em>Environmental Epidemiology</em>, 9(3), p.e385.</p></li>
+<li><p><strong>Chen, F.</strong>, MacDonald, B., Xu, Y., Franco, W.,
+Campos, A., Palinkas, L.A., Johnston, J., Eckel, S.P., &amp; Garcia, E.
+(2025).<br />
+<em>ZIP Code and ZIP Code Tabulation Area Linkage: Implications for Bias
+in Epidemiologic Research.</em><br />
+<em>Epidemiology</em>, 36(1), pp.115–118.</p></li>
+<li><p>Bhaskar, S., Shapero, A., <strong>Chen, F.</strong>, Chu, M.T.,
+Nethery, R.C., Hart, J.E., &amp; Adamkiewicz, G. (2024).<br />
+<em>Algorithm-driven estimation of household cooking activity and its
+impact on indoor PM2.5 assessments.</em><br />
+<em>Indoor Environments</em>, 1(3), p.100032.</p></li>
+<li><p><strong>Chen, F.</strong>, Eckel, S.P., Campos, A., Palinkas, L.,
+Johnston, J., Franco, W., &amp; Garcia, E. (2024).<br />
+<em>Disparities of Electronic Vehicle Adoption in California and Urban
+Gentrification.</em><br />
+<em>ISEE Conference Abstracts.</em></p></li>
+<li><p>Borchert, W., Grady, S.T., Chen, J., Deville, N.V., Roscoe, C.,
+<strong>Chen, F.</strong>, et al. (2023).<br />
+<em>Air pollution and temperature: a systematic review.</em><br />
+<em>Current Environmental Health Reports</em>, 10(4),
+pp.490–500.</p></li>
+<li><p><strong>Chen, F.</strong>, Chen, J.T., Hart, J.E., Coull, B.A.,
+Scammell, M.K., Chu, M.T., &amp; Adamkiewicz, G. (2023).<br />
+<em>Disparities in joint exposure to environmental and social
+stressors.</em><br />
+<em>Environmental Research</em>, 238, p.117104.</p></li>
+<li><p>Guyol, G.G., <strong>Chen, F.</strong>, &amp; Boynton-Jarrett, R.
+(2023).<br />
+<em>Neighborhood context and parent perspectives on preschool
+location.</em><br />
+<em>Early Education and Development</em>, 34(3), pp.725–741.</p></li>
+<li><p>Desai, S., <strong>Chen, F.</strong>, &amp; Boynton-Jarrett, R.
+(2019).<br />
+<em>Clinician satisfaction and self-efficacy with
+CenteringParenting.</em><br />
+<em>Journal of Primary Care &amp; Community Health</em>, 10.</p></li>
+<li><p>Zhong, M., <strong>Chen, F.</strong>, &amp; Saikawa, E.
+(2019).<br />
+<em>Sensitivity of projected PM2.5- and O3-related health
+impacts.</em><br />
+<em>Environment International</em>, 123, pp.256–264.</p></li>
+</ol>
+<hr />
+</div>
+<div id="under-review-working-papers" class="section level1">
+<h1>UNDER REVIEW / WORKING PAPERS</h1>
+<ol style="list-style-type: decimal">
+<li><p><strong>Chen, F.</strong>, Eckel, S.P., et al. (2026).<br />
+<em>Longitudinal electric vehicle adoption patterns and neighborhood
+predictors in California.</em><br />
+<em>Transportation Research Interdisciplinary Perspectives</em> (under
+review).</p></li>
+<li><p><strong>Chen, F.</strong>, Comandon, A., et al. (2026).<br />
+<em>Building characteristics as effect modifiers of extreme heat-related
+mortality: Insights from assessor parcel data.</em><br />
+<em>Journal of Urban Health</em> (under review).</p></li>
+</ol>
+<hr />
+</div>
+<div id="non-peer-reviewed-publications" class="section level1">
+<h1>NON-PEER-REVIEWED PUBLICATIONS</h1>
+<ol style="list-style-type: decimal">
+<li><p><strong>Chen, F.</strong> &amp; Boynton-Jarrett, R. (2016).<br />
+Fine-Scale Child Opportunity Index (COI) Mapping.<br />
+<a
+href="https://www.vitalvillage.org/data-dashboard/customize/child-opportunity-index-v2"
+class="uri">https://www.vitalvillage.org/data-dashboard/customize/child-opportunity-index-v2</a></p></li>
+<li><p>Lead of Vital Village Network Food Access Community Workgroup
+(2017).<br />
+Food Access in Boston<br />
+<a href="https://www.vitalvillage.org/data-dashboard/food-access"
+class="uri">https://www.vitalvillage.org/data-dashboard/food-access</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="presentations" class="section level1">
+<h1>PRESENTATIONS</h1>
+<ol style="list-style-type: decimal">
+<li><p><strong>Chen, F.</strong>, Comandon, A., Zhang, L., and Garcia,
+E.<br />
+“Lessons learned from parcel datasets: an exploration of effect
+modification of building structures on extreme heat-related
+mortality.”<br />
+<em>Flash oral talk</em>, International Society for Environmental
+Epidemiology annual conference, Atlanta, GA, August 2025.</p></li>
+<li><p>Eckel, S.P., <strong>Chen, F.</strong>, Silva, S.J., Goldberg,
+D.L., Johnston, J., Palinkas, L.A., Campos, A., Franco, W., and Garcia.
+E.<br />
+“Increasing zero-emissions vehicle adoption and reduced
+satellite-measured NO2 air pollution in California.”<br />
+<em>Poster presented</em>, International Society for Environmental
+Epidemiology annual conference, Atlanta, GA, August 2025.</p></li>
+<li><p>Schimke, C., Eckel, S.P., <strong>Chen, F.</strong>, Schlereth,
+H., Ko, J., Sanchez, J.R., Wei, D., Silva, S., and Garcia. E.<br />
+“Evaluation of optimal heat stress metric for modelling heat-mortality
+relation across climatically distinct sub-regions of Southern
+California.”<br />
+<em>Flash oral talk</em>, International Society for Environmental
+Epidemiology annual conference, Atlanta, GA, August 2025.</p></li>
+<li><p><strong>Chen, F.</strong>, MacDonald, B., Xu, Y., Franco, W.,
+Campos, A., Palinkas, L.A., Johnston, J., Eckel, S.P. and Garcia,
+E.<br />
+“Use of ZIP Codes and ZIP Code Tabulation Areas: Bias Analysis and
+Research Implications.”<br />
+<em>Poster presented</em>, 58th Society for Epidemiologic Research
+meeting, Austin, TX, June 2024.</p></li>
+<li><p><strong>Chen, F.</strong>, Niu, Z., Mohazzab-Hosseinian, S.,
+Howland, S., Lurmann, F., Pavlovic, N.R., Gauderman, W.J., McConnell,
+R., Farzan, S.F., Bastain, T.M., Havre, R., Breton, C.V., and Garcia,
+E.<br />
+“Sensitive windows of long-term childhood exposure to air pollution on
+adult bronchitic symptoms.”<br />
+<em>Poster presented</em>, 58th Society for Epidemiologic Research
+meeting, Austin, TX, June 2024.</p></li>
+<li><p><strong>Chen, F.</strong>, Eckel, S.P., Campos, A., Palinkas, L.,
+Johnston, J., Franco, W. and Garcia, E.<br />
+“Disparities of Electronic Vehicle Adoption in California and Urban
+Gentrification: A Community Dialogue Informed Approach.”<br />
+<em>Lightning talk</em>, 2024 Wrigley Institute Annual Research
+Symposium, Los Angeles, CA, March, 2023.</p></li>
+<li><p><strong>Chen, F.</strong>, Hart, J.E., Chen, J.T., Coull, B.A.,
+Fabian, M.P., Schwartz, J. and Adamkiewicz, G.<br />
+“Short-term ambient PM2.5 exposure and mortality in Massachusetts:
+Effect modification by structural air exchange rates.”<br />
+<em>Oral presentation</em>, International Society for Environmental
+Epidemiology North American Chapter Conference, Corvallis, OR, June
+2023.</p></li>
+<li><p><strong>Chen, F.</strong> and Boynton-Jarrett, R.<br />
+“A Block Group Level Child Opportunity Index for the Boston Metropolitan
+Area.”<br />
+<em>Poster presented</em>, 52th Society for Epidemiologic Research
+meeting, Minneapolis, MN, June 2018.</p></li>
+<li><p>Zhong, M., <strong>Chen, F.</strong> and Saikawa, E.<br />
+“Uncertainties of Estimated PM2.5- and O3- Related Health Impacts in
+China due to Emissions.”<br />
+<em>Oral talk</em>, 18th Global Emissions Initiative Conference,
+Hamburg, Germany, September, 2017.</p></li>
+<li><p><strong>Chen, F.</strong> and Boynton-Jarrett, R.<br />
+“Asset-Based Data: the Vital Village Network Data Dashboard.”<br />
+<em>Workshop presented</em>, 2016 Vital Village Network Leadership
+Summit, Boston, MA, December, 2016.</p></li>
+</ol>
+<hr />
+</div>
+<div id="teaching-and-professional-activities" class="section level1">
+<h1>TEACHING AND PROFESSIONAL ACTIVITIES</h1>
+<p><strong>University of Southern California</strong>, Los Angeles,
+CA<br />
+- Guest Lecture: <em>Probability and Statistics Review</em> (2024) -
+Introduction to Causal Inference in Epidemiology (course designed by
+Dr. Erika Garcia)<br />
+- Guest Lecture: <em>Causal Inference</em> (2024) - Introduction to
+Causal Inference in Epidemiology<br />
+- Guest Lecture: <em>Natural Experiments</em> (2023) - Introduction to
+Causal Inference in Epidemiology</p>
+<p><strong>ISEE North American Chapter Conference</strong>, Corvallis,
+OR<br />
+- Session Chair: Built environment oral talk, June 2023.</p>
+<p><strong>Harvard T.H. Chan School of Public Health</strong>, Boston,
+MA<br />
+<em>Award</em>: <em>Certificate of Distinction in Teaching in the
+Department of Biostatistics</em> (2022-2023)<br />
+- <em>Teaching Fellow</em>, Core Principles of Biostatistics and
+Epidemiology for Public Health Practice (Fall 2021 &amp; Fall
+2022)<br />
+- <em>Teaching Fellow</em>, Statistics for Medical Research I &amp;
+Statistics for Medical Research II (Summer 2022)<br />
+- <em>Teaching Fellow</em>, Environmental and Occupational Epidemiology
+(Spring 2020 &amp; Spring 2021)<br />
+- <em>Tutor</em>, Quantitative Research Methods in Population Health
+Sciences A &amp; B (2019–2023)</p>
+<hr />
+</div>
+<div id="peer-review" class="section level1">
+<h1>PEER REVIEW</h1>
+<p><em>Ad Hoc Reviewer:</em><br />
+- The Lancet Public Health<br />
+- BMC Public Health<br />
+- Environmental Research<br />
+- Environmental International<br />
+- Health and Place<br />
+- Journal of Primary Care and Community Health<br />
+- Public Health<br />
+- Scientific Reports<br />
+- PeerJ<br />
+- Sleep Health</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

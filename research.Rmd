@@ -1,0 +1,130 @@
+---
+title: "Research"
+output: html_document
+---
+
+# Research Overview
+
+My research focuses on how **environmental exposures—such as air pollution, extreme heat, and transportation-related emissions—affect population health**.
+
+Rather than studying these exposures in isolation, I situate them within the **urban, built, and social environments** where people live. These contextual factors—including housing conditions, neighborhood characteristics, and social environments—shape both exposure levels and how individuals respond to them.
+
+Methodologically, I integrate **large-scale population data** with **longitudinal and flexible modeling approaches** to study these relationships in real-world settings.
+
+---
+
+# Conceptual Framework: Why Context Matters
+
+Environmental exposures are well-established drivers of health. However, their impacts are not uniform.
+
+**Context matters because:**
+
+- It **modifies environmental exposures**  
+- It creates **heterogeneity in health effects**  
+- It introduces mechanisms such as:
+  - Effect modification  
+  - Mediation  
+  - Causal interaction  
+
+Understanding context allows us to identify **where and how interventions can be most effective**.
+
+---
+
+# Research Areas
+
+## 1. Air Pollution and Life-Course Health
+
+I study how **exposure to air pollution** affects health across the life course.
+
+- Focus on **sensitive windows of exposure**  
+- Use **longitudinal cohort data (e.g., CHS)**  
+- Apply **distributed lag models**  
+
+**Key question:**  
+How do exposures at different life stages contribute to adult health outcomes?
+
+---
+
+## 2. Built Environment and Exposure Measurement
+
+People spend ~87% of their time indoors, yet most studies rely on ambient exposure data.
+
+This creates a **critical mismatch** between:
+- Ambient measurements  
+- Individual-level **ambient-sourced** exposure  
+
+### Key mechanisms:
+- Air Exchange Rates (AERs)  
+- Building characteristics  
+- Housing
+
+**Key question:**  
+Do building factors modify the relationship between environmental exposure and health?
+
+My work shows that **parcel-level AER modifies the association between PM2.5 and mortality**, improving exposure assessment and reducing bias.
+
+---
+
+## 3. Extreme Heat and Climate Vulnerability
+
+I investigate how the **built environment shapes vulnerability to extreme heat**.
+
+- Use **fine spatial resolution (parcel-level) data**  
+- Examine **heterogeneity in heat-related mortality**  
+- Develop **data-driven approaches**  
+
+**Key question:**  
+How do building and neighborhood characteristics influence heat-related health risks?
+
+---
+
+## 4. Transportation, Policy, and Environmental Equity
+
+I study how **climate policies—such as zero-emission vehicle (ZEV) adoption—impact health**.
+
+- Analyze **longitudinal adoption patterns**  
+- Link to **air quality and health outcomes**  
+- Evaluate **equity implications**  
+
+**Key approaches:**
+- Negative binomial mixed models  
+- Policy-relevant causal frameworks  
+
+---
+
+# Cross-Cutting Themes
+
+## Community Engagement
+
+My work emphasizes **bidirectional engagement**:
+- Community knowledge informs research questions  
+- Findings are communicated back to stakeholders  
+
+---
+
+## Data and Methods Challenges
+
+- Joint measurement of environmental and social stressors  
+- Fine spatial resolution data integration  
+- Longitudinal causal inference  
+
+---
+
+## Policy Relevance
+
+My research is designed to:
+- Inform **environmental and public health policy**  
+- Identify **actionable intervention points**  
+- Evaluate **co-benefits of climate mitigation strategies**  
+
+---
+
+# Impact
+
+Overall, my work aims to understand how **environmental and contextual factors jointly shape population health**, with the goal of generating **policy-relevant evidence to reduce health disparities**.
+
+---
+
+# Selected Work
+
+See full list on the [CV page](cv.html).
