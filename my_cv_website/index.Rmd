@@ -1,0 +1,39 @@
+---
+title: "Futu Chen"
+output: html_document
+---
+
+# Welcome
+
+I am a **Postdoctoral Scholar** in Environmental Health at the University of Southern California.
+
+My research focuses on:
+
+- Air pollution and climate-related exposures  
+- Neighborhood and built environment impacts
+- Transportation policy (Zero Emission Vehicle adoption)
+
+---
+
+## Contact
+
+- 📧 futuchen@usc.edu  
+- 📍 Los Angeles, CA  
+
+---
+
+## About Me
+
+<img src="images/profile.jpg" width="180" class="profile">
+
+I am an environmental epidemiologist with a PhD in Population Health Sciences from Harvard University, with a focus on environmental epidemiology. My research integrates epidemiology, biostatistics, and environmental science to understand how environmental and contextual factors jointly shape exposure and vulnerability. Using population-level data, I aim to generate real-world evidence that informs public health policy and supports healthier communities.
+
+
+---
+
+## Research Interests
+
+- Environmental epidemiology  
+- Climate and health, particularly extreme heat and air pollution in the interaction between outdoor and indoor environments  
+- Policy-relevant and translational research  
+- Causal inference methods for population health  
