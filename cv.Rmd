@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 output: html_document
 ---
 
-# Futu Chen
+# Futu Chen, PhD
 
 📧 futuchen@usc.edu  
 📍 Los Angeles, CA, 90033  

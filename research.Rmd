@@ -3,11 +3,11 @@ title: "Research"
 output: html_document
 ---
 
-# Research Overview
+# Research Overview (under construction)
 
 My research focuses on how **environmental exposures—such as air pollution, extreme heat, and transportation-related emissions—affect population health**.
 
-Rather than studying these exposures in isolation, I situate them within the **urban, built, and social environments** where people live. These contextual factors—including housing conditions, neighborhood characteristics, and social environments—shape both exposure levels and how individuals respond to them.
+Rather than studying these exposures in isolation, I situate them within the **urban, built, and social environments** where people live. These contextual factors shape both exposure levels and how individuals respond to them.
 
 Methodologically, I integrate **large-scale population data** with **longitudinal and flexible modeling approaches** to study these relationships in real-world settings.
 
